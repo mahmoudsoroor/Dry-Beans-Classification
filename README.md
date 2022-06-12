@@ -68,4 +68,4 @@ Trained using Kaggle CPU
 ## Final result
 
 
-[<img src="Final_rank.png">](https://www.kaggle.com/competitions/dry-beans-classification-iti-ai-pro-intake02/discussion/329172)
+[<img src="Final_rank.PNG">](https://www.kaggle.com/competitions/dry-beans-classification-iti-ai-pro-intake02/discussion/329172)
