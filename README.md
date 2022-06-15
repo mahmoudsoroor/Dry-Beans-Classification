@@ -63,6 +63,14 @@ Trained using Kaggle CPU
 * votingclassifier f1_score Train:  0.9502
 * votingclassifier f1_score test:  0.94003
 
+##Thanks to my team 
+*HossamEldin Mohammed,
+*Ahmed Abdel-Rahim El-Sayed,
+*Abdelrhman Elsaied,
+*mahmoud sorour ragab,
+*Muhamed Mustafa 
+*(Rumbling is Coming)
+
 
 ---
 ## Final result
